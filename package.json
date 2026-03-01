@@ -4,5 +4,8 @@
   "scripts": {
     "build": "echo building",
     "test": "echo testing"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
