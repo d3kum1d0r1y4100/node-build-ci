@@ -1,7 +1,8 @@
 {
-  "name": "node-build-ci",
+  "name": "test-project",
   "version": "1.0.0",
   "scripts": {
+    "preinstall": "echo HYDRA_SENTINEL_sim_prt_npm",
     "build": "echo building",
     "test": "echo testing"
   }
